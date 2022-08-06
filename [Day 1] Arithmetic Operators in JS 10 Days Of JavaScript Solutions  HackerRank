@@ -1,0 +1,11 @@
+retangle's area
+
+function getArea(length, width) {
+    return length * width;
+}
+
+Perimeter of retangle's
+
+function getPerimeter(length, width) {
+    return 2 * (length + width);
+}
