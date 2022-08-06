@@ -1,11 +1,17 @@
 retangle's area
 
 function getArea(length, width) {
-    return length * width;
+  let area;
+  area = length * width;
+  return area;
 }
+
+
 
 Perimeter of retangle's
 
 function getPerimeter(length, width) {
-    return 2 * (length + width);
+  let perimeter;
+  perimeter = 2 * (length + width);
+  return perimeter;
 }
